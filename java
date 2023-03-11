@@ -1,4 +1,4 @@
-lass Test{
+class Test{
 	public void show()
 	{
 		System.out.print("Hi");
